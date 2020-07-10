@@ -1,4 +1,6 @@
-### Hi there 👋
+### Husni Kamal (jasjuslover) ✨
+
+Hello, World! Repo-nya manusia biasa 🌱 Mangga ai kepo mah 🤔 Just Code for Fun
 
 <!--
 **jasjuslover/jasjuslover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
