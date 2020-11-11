@@ -1,22 +1,12 @@
-### Husni Kamal (jasjuslover) ✨
+<img src="https://pbs.twimg.com/profile_banners/409815684/1577951524/600x200" width="100%"/>
 
-Hello, World! Repo-nya manusia biasa 🌱 Mangga ai kepo mah 🤔 Just Code for Fun
+## Husni Kamal (jasjuslover) ✨
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* Simpleman
+* No bite
+* Have beaten Oxide on Time Trial ✨
+* Sometimes, can keep blue fire on the track ✨
 
-<!--
-**jasjuslover/jasjuslover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Repository list of self programming study. For now, it just contain web and mobile technology. Feel free to open issues or maybe a pull request. I love to write Kotlin, Java and JavaScript language, sometimes Dart and other language. Sometimes self-taught, sometimes ask a lot to friends, seniors, or mentors.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="https://github-readme-stats.vercel.app/api?username=jasjuslover&&show_icons=true&title_color=70ffec&icon_color=bb2acf&text_color=ffffff&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=jasjuslover&&show_icons=true&title_color=70ffec&icon_color=bb2acf&text_color=ffffff&bg_color=151515" width="100%">
